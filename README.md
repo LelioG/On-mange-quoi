@@ -55,12 +55,6 @@ SUPABASE_SERVICE_ROLE_KEY=votre-cle-secrete
 ADMIN_PASSWORD=votre-mot-de-passe-admin
 ```
 
-Important :
-
-- `NEXT_PUBLIC_SUPABASE_URL` et `NEXT_PUBLIC_SUPABASE_ANON_KEY` sont utilisées côté client.
-- `SUPABASE_SERVICE_ROLE_KEY` et `ADMIN_PASSWORD` doivent rester secrets.
-- Ne jamais envoyer `.env.local` sur GitHub.
-
 ## Format des recettes
 
 Les recettes locales sont stockées dans :
