@@ -1,0 +1,228 @@
+{
+  "recettes": [
+    {
+      "nom": "frichti frites",
+      "difficulte": "facile",
+      "saison": [
+        "hiver"
+      ],
+      "restes_probables": false
+    },
+    {
+      "nom": "côtes de porc gratin dauphinois",
+      "difficulte": "facile",
+      "saison": [
+        "hiver"
+      ],
+      "restes_probables": true
+    },
+    {
+      "nom": "spaghettis bolognaise",
+      "difficulte": "facile",
+      "saison": [
+        "hiver"
+      ],
+      "restes_probables": true
+    },
+    {
+      "nom": "pâtes saumon",
+      "difficulte": "facile",
+      "saison": [
+        "été",
+        "hiver"
+      ],
+      "restes_probables": false
+    },
+    {
+      "nom": "bistouquettes la crevette",
+      "difficulte": "difficile",
+      "saison": [
+        "été"
+      ],
+      "restes_probables": false
+    },
+    {
+      "nom": "sandwichs",
+      "difficulte": "facile",
+      "saison": [
+        "été"
+      ],
+      "restes_probables": false
+    },
+    {
+      "nom": "salades de crudités",
+      "difficulte": "moyen",
+      "saison": [
+        "été"
+      ],
+      "restes_probables": false
+    },
+    {
+      "nom": "omelette champignons lard",
+      "difficulte": "facile",
+      "saison": [
+        "hiver"
+      ],
+      "restes_probables": false
+    },
+    {
+      "nom": "pizza",
+      "difficulte": "moyen",
+      "saison": [
+        "été",
+        "hiver"
+      ],
+      "restes_probables": true
+    },
+    {
+      "nom": "burger",
+      "difficulte": "facile",
+      "saison": [
+        "été",
+        "hiver"
+      ],
+      "restes_probables": false
+    },
+    {
+      "nom": "chili con carne",
+      "difficulte": "moyen",
+      "saison": [
+        "hiver"
+      ],
+      "restes_probables": true
+    },
+    {
+      "nom": "lasagnes",
+      "difficulte": "moyen",
+      "saison": [
+        "hiver"
+      ],
+      "restes_probables": true
+    },
+    {
+      "nom": "poulet patates",
+      "difficulte": "facile",
+      "saison": [
+        "été",
+        "hiver"
+      ],
+      "restes_probables": true
+    },
+    {
+      "nom": "couscous",
+      "difficulte": "difficile",
+      "saison": [
+        "hiver"
+      ],
+      "restes_probables": true
+    },
+    {
+      "nom": "navarin",
+      "difficulte": "difficile",
+      "saison": [
+        "hiver"
+      ],
+      "restes_probables": true
+    },
+    {
+      "nom": "crêpes",
+      "difficulte": "moyen",
+      "saison": [
+        "été",
+        "hiver"
+      ],
+      "restes_probables": true
+    },
+    {
+      "nom": "ravioles gratin",
+      "difficulte": "facile",
+      "saison": [
+        "hiver"
+      ],
+      "restes_probables": false
+    },
+    {
+      "nom": "pâtes carbo",
+      "difficulte": "facile",
+      "saison": [
+        "hiver"
+      ],
+      "restes_probables": false
+    },
+    {
+      "nom": "saucisse purée",
+      "difficulte": "facile",
+      "saison": [
+        "hiver"
+      ],
+      "restes_probables": false
+    },
+    {
+      "nom": "riz crevettes safran",
+      "difficulte": "facile",
+      "saison": [
+        "été"
+      ],
+      "restes_probables": false
+    },
+    {
+      "nom": "salade de pâtes",
+      "difficulte": "moyen",
+      "saison": [
+        "été"
+      ],
+      "restes_probables": true
+    },
+    {
+      "nom": "tortillas",
+      "difficulte": "moyen",
+      "saison": [
+        "été",
+        "hiver"
+      ],
+      "restes_probables": false
+    },
+    {
+      "nom": "bagel saumon",
+      "difficulte": "facile",
+      "saison": [
+        "été"
+      ],
+      "restes_probables": false
+    },
+    {
+      "nom": "cordons bleus semoule",
+      "difficulte": "facile",
+      "saison": [
+        "hiver"
+      ],
+      "restes_probables": false
+    },
+    {
+      "nom": "gnocchi",
+      "difficulte": "facile",
+      "saison": [
+        "hiver"
+      ],
+      "restes_probables": false
+    },
+    {
+      "nom": "quiche",
+      "difficulte": "moyen",
+      "saison": [
+        "été",
+        "hiver"
+      ],
+      "restes_probables": true
+    },
+    {
+      "nom": "salade pâtes",
+      "difficulte": "facile",
+      "saison": [
+        "été"
+      ],
+      "restes_probables": true,
+      "doublon_probable_de": "salade de pâtes"
+    }
+  ]
+}
